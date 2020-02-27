@@ -1,7 +1,9 @@
 Ingredients in pizza:
-Gorgonzola
 With_meat
+Sausage
 Cucumbers
-Pizza name: testPizza
-Pizza cost: 14.9
+Thin
+Gorgonzola
+Pizza name: Pepperoni
+Pizza cost: 30.419999999999998
 Count of pizza: 2
